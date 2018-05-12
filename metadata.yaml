@@ -1,0 +1,29 @@
+_repo: Comrade-Yetta_38860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwards, Albert
+    alias: Bullard, Artur
+    birthdate: 1879
+    deathdate: 1929
+    gutenberg_agent_id: '39686'
+    url: http://www.gutenberg.org/2009/agents/39686
+description: ''
+gutenberg_issued: '2012-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcc 'PS'
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'Didactic fiction'
+title: Comrade Yetta
+url: http://www.gutenberg.org/ebooks/38860
